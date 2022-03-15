@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=syxuan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![Cheng Che's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengche6230&theme=nord&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chengche6230&layout=compact&theme=nord)](https://github.com/chengche6230/github-readme-stats)
