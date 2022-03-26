@@ -1,10 +1,9 @@
 ## Hi there 👋  I'm Cheng Che ![](https://komarev.com/ghpvc/?username=chengche6230&color=728a7a)
 > Research Assistant in CV Lab, NTHU
 
+Nice to see you here!
 
-
-Nice to see you here! <br>
-🚧Still under construction..🚧
+This is Cheng Che. I'm currently researching about Multi-Target Multi-Camera Tracking, Re-IDentification, and Human Pose Estimation. I'm glad to discuss with any related issues. Feel free to contact me.🤗
 
 ### GitHub Stats
 ![Cheng Che's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengche6230&theme=nord&show_icons=true)
