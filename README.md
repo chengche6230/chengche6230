@@ -3,7 +3,12 @@
 
 Nice to see you here!
 
-This is Cheng Che. I'm currently researching about Multi-Target Multi-Camera Tracking, Re-IDentification, and Human Pose Estimation. I'm glad to discuss with any related issues. Feel free to contact me.🤗
+This is Cheng Che. I'm working on a Master's degree at [NTHU](https://www.nthu.edu.tw/), supervised by [Dr. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/). I'm currently researching about:
+* Multi-Target Multi-Camera Tracking
+* Re-IDentification
+* Human Pose Estimation
+
+I'm glad to discuss with any related issues. Feel free to contact me.🤗
 
 ### GitHub Stats
 ![Cheng Che's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengche6230&theme=nord&show_icons=true)
@@ -12,7 +17,7 @@ This is Cheng Che. I'm currently researching about Multi-Target Multi-Camera Tra
 -->
 
 ### 🤝🏻 Connect with Me
-[![](https://img.shields.io/badge/Blog-%E5%A4%A7%E5%93%B2%E7%9A%84%E7%A2%BC%E8%BE%B2%E7%94%9F%E6%B4%BB-737C75)](https://chengche6230.github.io/)
+[![](https://img.shields.io/badge/Blog-Che%20Blog-737C75)](https://chengche6230.github.io/)
 [![](https://img.shields.io/badge/LinkedIn-Cheng%20Che%20Cheng-8E9BAE?logo=linkedin)](https://www.linkedin.com/in/cheng-che-cheng-645055232/)
 [![](https://img.shields.io/badge/Gmail-chengche6230%40gmail.com-976666?logo=gmail)](mailto:chengche6230@gmail.com)
 
