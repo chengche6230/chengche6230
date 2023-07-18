@@ -10,7 +10,7 @@ This is Cheng Che. I'm working on a Master's degree at [NTHU](https://www.nthu.e
 
 I'm glad to discuss with any related issues. Feel free to contact me.🤗
 
-🎉 **NEWS: Our papaer has been accepted by ICCV'23.**
+🎉 **NEWS: Our paper "[ReST](https://github.com/chengche6230/ReST)" got accepted to ICCV'23.**
 
 ### GitHub Stats
 ![Cheng Che's GitHub stats](https://github-readme-stats.vercel.app/api?username=chengche6230&theme=nord&show_icons=true)
