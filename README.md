@@ -1,9 +1,9 @@
 ## Hi there 👋  I'm Cheng Che ![](https://komarev.com/ghpvc/?username=chengche6230&color=728a7a)
-> Research Assistant in CV Lab, NTHU
+> Software Engineer at Mediatek
 
 Nice to see you here!
 
-This is Cheng Che. I'm working on a Master's degree at [NTHU](https://www.nthu.edu.tw/), supervised by [Dr. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/). I'm currently researching about:
+I'm working on camera ISP and 3A algorithm development. The following are the topics of my research during my master's program:
 * Multi-Camera Multi-Object Tracking
 * Re-IDentification
 * Human Pose Estimation
